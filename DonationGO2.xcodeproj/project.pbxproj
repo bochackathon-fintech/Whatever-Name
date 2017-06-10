@@ -8,22 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		A6A689561EEC0B32001E3F16 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A689551EEC0B32001E3F16 /* AppDelegate.swift */; };
-		A6A689581EEC0B32001E3F16 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A689571EEC0B32001E3F16 /* ViewController.swift */; };
 		A6A6895B1EEC0B32001E3F16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6A689591EEC0B32001E3F16 /* Main.storyboard */; };
 		A6A6895E1EEC0B32001E3F16 /* DonationGO2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A6A6895C1EEC0B32001E3F16 /* DonationGO2.xcdatamodeld */; };
 		A6A689601EEC0B32001E3F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A6895F1EEC0B32001E3F16 /* Assets.xcassets */; };
 		A6A689631EEC0B32001E3F16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6A689611EEC0B32001E3F16 /* LaunchScreen.storyboard */; };
+		A6A6896D1EEC1B20001E3F16 /* ActivationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A6A689521EEC0B32001E3F16 /* DonationGO2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DonationGO2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6A689551EEC0B32001E3F16 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A6A689571EEC0B32001E3F16 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A6A6895A1EEC0B32001E3F16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A6A6895D1EEC0B32001E3F16 /* DonationGO2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DonationGO2.xcdatamodel; sourceTree = "<group>"; };
 		A6A6895F1EEC0B32001E3F16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6A689621EEC0B32001E3F16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6A689641EEC0B32001E3F16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ActivationViewController.swift; path = ../ActivationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				A6A689551EEC0B32001E3F16 /* AppDelegate.swift */,
-				A6A689571EEC0B32001E3F16 /* ViewController.swift */,
+				A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */,
 				A6A689591EEC0B32001E3F16 /* Main.storyboard */,
 				A6A6895F1EEC0B32001E3F16 /* Assets.xcassets */,
 				A6A689611EEC0B32001E3F16 /* LaunchScreen.storyboard */,
@@ -140,9 +140,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A689581EEC0B32001E3F16 /* ViewController.swift in Sources */,
 				A6A6895E1EEC0B32001E3F16 /* DonationGO2.xcdatamodeld in Sources */,
 				A6A689561EEC0B32001E3F16 /* AppDelegate.swift in Sources */,
+				A6A6896D1EEC1B20001E3F16 /* ActivationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
