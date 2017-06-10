@@ -13,6 +13,8 @@
 		A6A689601EEC0B32001E3F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A6895F1EEC0B32001E3F16 /* Assets.xcassets */; };
 		A6A689631EEC0B32001E3F16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6A689611EEC0B32001E3F16 /* LaunchScreen.storyboard */; };
 		A6A6896D1EEC1B20001E3F16 /* ActivationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */; };
+		A6A6896F1EEC55EA001E3F16 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A6896E1EEC55EA001E3F16 /* LoginViewController.swift */; };
+		A6A689721EEC58D4001E3F16 /* RocketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A689711EEC58D4001E3F16 /* RocketView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A6A689621EEC0B32001E3F16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6A689641EEC0B32001E3F16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ActivationViewController.swift; path = ../ActivationViewController.swift; sourceTree = "<group>"; };
+		A6A6896E1EEC55EA001E3F16 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		A6A689711EEC58D4001E3F16 /* RocketView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RocketView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +60,8 @@
 		A6A689541EEC0B32001E3F16 /* DonationGO2 */ = {
 			isa = PBXGroup;
 			children = (
+				A6A689701EEC58BE001E3F16 /* Controllers */,
 				A6A689551EEC0B32001E3F16 /* AppDelegate.swift */,
-				A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */,
 				A6A689591EEC0B32001E3F16 /* Main.storyboard */,
 				A6A6895F1EEC0B32001E3F16 /* Assets.xcassets */,
 				A6A689611EEC0B32001E3F16 /* LaunchScreen.storyboard */,
@@ -65,6 +69,16 @@
 				A6A6895C1EEC0B32001E3F16 /* DonationGO2.xcdatamodeld */,
 			);
 			path = DonationGO2;
+			sourceTree = "<group>";
+		};
+		A6A689701EEC58BE001E3F16 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */,
+				A6A6896E1EEC55EA001E3F16 /* LoginViewController.swift */,
+				A6A689711EEC58D4001E3F16 /* RocketView.swift */,
+			);
+			name = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,6 +154,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6A689721EEC58D4001E3F16 /* RocketView.swift in Sources */,
+				A6A6896F1EEC55EA001E3F16 /* LoginViewController.swift in Sources */,
 				A6A6895E1EEC0B32001E3F16 /* DonationGO2.xcdatamodeld in Sources */,
 				A6A689561EEC0B32001E3F16 /* AppDelegate.swift in Sources */,
 				A6A6896D1EEC1B20001E3F16 /* ActivationViewController.swift in Sources */,
