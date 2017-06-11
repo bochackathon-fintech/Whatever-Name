@@ -1,0 +1,42 @@
+ProductID : 5900816727f67a1d90664e33
+
+{
+  "products": [
+    {
+      "name": "AEK PREPAID VISA",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e33"
+    }
+  ]
+}
+
+ProductID : 5900816727f67a1d90664e35
+
+{
+  "products": [
+    {
+      "name": "AMEX BUSSINESS",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e35"
+    }
+  ]
+}
+
+
+
+Schema:
+
+{
+  "bank_id": [
+    "string"
+  ],
+  "category": "string",
+  "family": "string",
+  "id": "string",
+  "meta": [
+    "string"
+  ],
+  "more_info_url": "string",
+  "name": "string",
+  "super_family": "string"
+}

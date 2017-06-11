@@ -1,0 +1,59 @@
+Auth-Provider-Name:01860902840400
+Auth-Id:123456789
+
+{
+  "legal_name": "Account Owner 111",
+  "numeric_values": [],
+  "date_values": [],
+  "string_values": [],
+  "customer_number": "2921f7068d27774e47f28842"
+}
+
+Auth-Provider-Name: 014711001175
+Auth-Id:123456789
+
+
+
+Schema:
+
+{
+  "legal_name": "Account Owner 123",
+  "numeric_values": [],
+  "date_values": [],
+  "string_values": [],
+  "customer_number": "e3a85aae7af4b10225ca126a"
+}
+
+{
+  "bank_id": [
+    "string"
+  ],
+  "customer_number": "string",
+  "date_values": [
+    {
+      "key": "string",
+      "string": "string"
+    }
+  ],
+  "email": "string",
+  "face_image": {
+    "name": "string"
+  },
+  "legal_name": "string",
+  "metadata": [
+    "string"
+  ],
+  "mobile_phone_number": "string",
+  "numeric_values": [
+    {
+      "key": "string",
+      "string": "string"
+    }
+  ],
+  "string_values": [
+    {
+      "key": "string",
+      "string": "string"
+    }
+  ]
+}

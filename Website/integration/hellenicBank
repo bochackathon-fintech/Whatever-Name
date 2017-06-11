@@ -1,0 +1,4 @@
+https://sandbox-oauth.hellenicbank.com/oauth/authorize?clientId=YOUR_CLIENT_ID
+&scope=report.credit.transfer,report.credit.transfer.mass
+&state=MyState
+&redirectUri=https%3A%2F%2Fyourapp.com%2Fauth%2Fredirect

@@ -1,0 +1,3555 @@
+{
+  "products": [
+    {
+      "name": "AEK PREPAID VISA",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e33"
+    },
+    {
+      "name": "AMEX BUSSINESS",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e35"
+    },
+    {
+      "name": "AEK VISA EMV",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e34"
+    },
+    {
+      "name": "AMEX CREDIT",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e36"
+    },
+    {
+      "name": "AMEX GOLD BUS CASHBACK EXSUNMILES",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e37"
+    },
+    {
+      "name": "AMEX GOLD BUSINESS",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e38"
+    },
+    {
+      "name": "AMEX GREEN CASHBACK",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e3d"
+    },
+    {
+      "name": "Debit FCA Sight Euro",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e42"
+    },
+    {
+      "name": "MCARD BLUE",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e47"
+    },
+    {
+      "name": "SALAMINA A/C",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e4c"
+    },
+    {
+      "name": "VISA STICKER DARK GRAY CONS CREDIT",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e51"
+    },
+    {
+      "name": "VISA/PREPAID LIGHT BLUE",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e56"
+    },
+    {
+      "name": "Cisco Trading",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e5b"
+    },
+    {
+      "name": "AMEX GREEN BUSINESS CASHBACK",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e3c"
+    },
+    {
+      "name": "Guarantee Deposit",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e60"
+    },
+    {
+      "name": "SEC.Student Revolving - 3M Euribor",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e65"
+    },
+    {
+      "name": "Debit FCA Sight DEM Account",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e41"
+    },
+    {
+      "name": "1 Month (Newly-weds)-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e6a"
+    },
+    {
+      "name": "Debit FCA Sight USD Account",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e46"
+    },
+    {
+      "name": "2 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e6f"
+    },
+    {
+      "name": "PREPAID FOOTBALL CLUBS",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e4b"
+    },
+    {
+      "name": "48 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e74"
+    },
+    {
+      "name": "VISA KARTA NEON 18-25",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e50"
+    },
+    {
+      "name": "CASH GUARANTEE 3/6 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e79"
+    },
+    {
+      "name": "VISA/PREPAID GREEN",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e55"
+    },
+    {
+      "name": "CD`S 7 Days",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e7e"
+    },
+    {
+      "name": "002Days Notice - FCA",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e5a"
+    },
+    {
+      "name": "Escalator 24 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e83"
+    },
+    {
+      "name": "FIXED DEPOSIT 7D-12M(FOREIGN)",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e88"
+    },
+    {
+      "name": "Foreign Overdraft-3M LIBOR-Base floor",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e5f"
+    },
+    {
+      "name": "FT DEPOSIT 180D - FCA ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e8d"
+    },
+    {
+      "name": "Overdraft A/c",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e64"
+    },
+    {
+      "name": "FT DEPOSIT 270D - FCA ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e92"
+    },
+    {
+      "name": "1 MONTH-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e69"
+    },
+    {
+      "name": "FT DEPOSIT 90D",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e97"
+    },
+    {
+      "name": "18 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e6e"
+    },
+    {
+      "name": "IBU-FIX.DEPOSIT 1M-12M(GREECE-BOC)",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e9c"
+    },
+    {
+      "name": "36 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e73"
+    },
+    {
+      "name": "KLIMAKOTO",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea1"
+    },
+    {
+      "name": "CASH GUARANTEE 3 months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e78"
+    },
+    {
+      "name": "NEW FD WITH CASH 3/6/9/12 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea6"
+    },
+    {
+      "name": "CD 9 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e7d"
+    },
+    {
+      "name": "PRASINO S.O",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eab"
+    },
+    {
+      "name": "Escalator 18 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e82"
+    },
+    {
+      "name": "PROTOTOKOS 3/6/12/24 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb0"
+    },
+    {
+      "name": "FIXED DEPOSIT 7D-12M",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e87"
+    },
+    {
+      "name": "RENTIER 24 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb5"
+    },
+    {
+      "name": "FT DEPOSIT 180D ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e8c"
+    },
+    {
+      "name": "SPECIAL KLIMAKOTO",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eba"
+    },
+    {
+      "name": "FT DEPOSIT 270D ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e91"
+    },
+    {
+      "name": "Special Deal 6/9/12 months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ebf"
+    },
+    {
+      "name": "FT DEPOSIT 6M",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e96"
+    },
+    {
+      "name": "e-Fixed Deposit",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec4"
+    },
+    {
+      "name": "GOLD ACCOUNT",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e9b"
+    },
+    {
+      "name": "e-Fixed Deposit 7 Days",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec9"
+    },
+    {
+      "name": "BCFC  LNS OLD 82 001MBASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ece"
+    },
+    {
+      "name": "KITRINO",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea0"
+    },
+    {
+      "name": "BCFC 0% 1ST YEAR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed3"
+    },
+    {
+      "name": "NEW FD FOREIGN CASH 3/6/9/12 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea5"
+    },
+    {
+      "name": "BCFC LNS OLD 82 6M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed8"
+    },
+    {
+      "name": "PORTOKALI  (S.O)",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eaa"
+    },
+    {
+      "name": "BCFC NEW LOANS 006M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664edd"
+    },
+    {
+      "name": "PROTOTOKOS 3 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eaf"
+    },
+    {
+      "name": "BCFC NEW LOANS EUR BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee2"
+    },
+    {
+      "name": "RENTIER 18 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb4"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD 82 3MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee7"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD82 12MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eec"
+    },
+    {
+      "name": "BILLS GUAR/ED DBTS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef1"
+    },
+    {
+      "name": "BUSIN.CHF CONV.IN EUR/GBP 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef6"
+    },
+    {
+      "name": "SIA - INTEREST PREPAYMENT",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb9"
+    },
+    {
+      "name": "Special Deal 6/9/12 Months-Foreign",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ebe"
+    },
+    {
+      "name": "Step-Up CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec3"
+    },
+    {
+      "name": "e-Fixed Deposit 6 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec8"
+    },
+    {
+      "name": "12-MONTHS FIXED RATE LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ecd"
+    },
+    {
+      "name": "BCFC  LNS OLD 82 012MBASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed2"
+    },
+    {
+      "name": "BCFC LNS OLD 82 3M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed7"
+    },
+    {
+      "name": "BCFC NEW LOANS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664edc"
+    },
+    {
+      "name": "BCFC NEW LOANS CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee1"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD 82 1MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee6"
+    },
+    {
+      "name": "BUSINESS LNS 10YRFXD THEN 3M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664efb"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD 82 BOC BAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eeb"
+    },
+    {
+      "name": "BUSINESS LNS 3YR FXD BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f00"
+    },
+    {
+      "name": "BILLS GUAR/ED DBTS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef0"
+    },
+    {
+      "name": "BUSINESS LNS 3YR FXD THEN12M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f05"
+    },
+    {
+      "name": "BOND / EQUITY LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef5"
+    },
+    {
+      "name": "BUSINESS LNS 5YR FXD THEN 7D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f0a"
+    },
+    {
+      "name": "BUSINESS LNS 10YRFXD THEN 1M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664efa"
+    },
+    {
+      "name": "BUSINESS LNS 7YR FXD,THEN 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f0f"
+    },
+    {
+      "name": "BUSINESS LNS 3 YR FXD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eff"
+    },
+    {
+      "name": "BUSINESS LNS1-3 YR FXD 006M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f14"
+    },
+    {
+      "name": "BUSINESS LNS 3YR FXD THEN 7D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f04"
+    },
+    {
+      "name": "BUSINESS LOAN 2YEAR FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f19"
+    },
+    {
+      "name": "BUSINESS LNS 5YR FXD THEN 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f09"
+    },
+    {
+      "name": "BUSINESS LOAN-7 YR FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f1e"
+    },
+    {
+      "name": "CHF LOANS BCFC 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f23"
+    },
+    {
+      "name": "BUSINESS LNS 7YR FXD,THEN 3M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f0e"
+    },
+    {
+      "name": "EUR STUDENT RELAX 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f28"
+    },
+    {
+      "name": "BUSINESS LNS1-3 YR FXD 003M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f13"
+    },
+    {
+      "name": "F.I. LNS 001M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f2d"
+    },
+    {
+      "name": "BUSINESS LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f18"
+    },
+    {
+      "name": "F.I. LNS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f32"
+    },
+    {
+      "name": "BUSINESS LOAN-5 YR FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f1d"
+    },
+    {
+      "name": "F.I. LNS 007D BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f37"
+    },
+    {
+      "name": "CHF LOANS BCFC 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f22"
+    },
+    {
+      "name": "F.I. LOANS BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f3c"
+    },
+    {
+      "name": "EUR STUDENT RELAX",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f27"
+    },
+    {
+      "name": "F.I.AND S.T. LNS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f41"
+    },
+    {
+      "name": "EUR STUDENT RELAX 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f2c"
+    },
+    {
+      "name": "F.I.L. LINE 1",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f46"
+    },
+    {
+      "name": "F.I. LNS 003M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f31"
+    },
+    {
+      "name": "F.I.LOANS - LINE 3 BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f4b"
+    },
+    {
+      "name": "F.I. LNS 007D BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f36"
+    },
+    {
+      "name": "F.I.LOANS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f50"
+    },
+    {
+      "name": "F.I. LNS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f3b"
+    },
+    {
+      "name": "F.I.LOANS 012M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f55"
+    },
+    {
+      "name": "F.I.AND S.T. LNS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f40"
+    },
+    {
+      "name": "F.I.LOANS EUR 001M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f5a"
+    },
+    {
+      "name": "F.I.L TO FARMERS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f45"
+    },
+    {
+      "name": "F.I.LOANS EUR 012M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f5f"
+    },
+    {
+      "name": "F.I.LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f4a"
+    },
+    {
+      "name": "F.I.LOANS OLD 82 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f64"
+    },
+    {
+      "name": "F.I.LOANS 003M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f4f"
+    },
+    {
+      "name": "FBN - TENOR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f69"
+    },
+    {
+      "name": "F.I.LOANS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f54"
+    },
+    {
+      "name": "FBN - TENOR 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f6e"
+    },
+    {
+      "name": "F.I.LOANS EUR 001M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f59"
+    },
+    {
+      "name": "FBN SIGHT 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f73"
+    },
+    {
+      "name": "FIL FCA CONVERTED IN EUR/GBP P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f78"
+    },
+    {
+      "name": "FIXED RATE LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f7d"
+    },
+    {
+      "name": "FULLY SECURED LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f82"
+    },
+    {
+      "name": "HOUS-ANAKENISI IKIAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f87"
+    },
+    {
+      "name": "HOUS.FCA CONV.IN EUR LNS 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f8c"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 006M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f91"
+    },
+    {
+      "name": "F.I.LOANS EUR 006M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f5e"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 012M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f96"
+    },
+    {
+      "name": "F.I.LOANS OLD 82 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f63"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 7D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f9b"
+    },
+    {
+      "name": "F.I.LOANS OLD 82 HOUS. BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f68"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 001M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa0"
+    },
+    {
+      "name": "FBN - TENOR 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f6d"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 12MCCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa5"
+    },
+    {
+      "name": "FBN SIGHT 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f72"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 6M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664faa"
+    },
+    {
+      "name": "FIL FCA CONV. IN EUR/GBP 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f77"
+    },
+    {
+      "name": "HOUS.FXD.1ST PERTHEN 12M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664faf"
+    },
+    {
+      "name": "FIXED INSTALMENT LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f7c"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST PERIOD.7DBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb4"
+    },
+    {
+      "name": "FOREIGN F.I.LOANS RETAIL CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f81"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST.PRD.012M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb9"
+    },
+    {
+      "name": "HIRE PURCHASE LOAN-CHF LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f86"
+    },
+    {
+      "name": "HOUS.LNS FXD.1ST PRD 3M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fbe"
+    },
+    {
+      "name": "HOUS.FCA CONV. IN EUR/GBP LOANS CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f8b"
+    },
+    {
+      "name": "HOUSING 2YRS 0%ADJ.001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc3"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 003M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f90"
+    },
+    {
+      "name": "HOUSING BRIDGING LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc8"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 012M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f95"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 6M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f9a"
+    },
+    {
+      "name": "HOUSING LN 1 & 2 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fcd"
+    },
+    {
+      "name": "HOUS.FXD 1ST PRD HOUS BOC.CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f9f"
+    },
+    {
+      "name": "HOUSING LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd2"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 012M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa4"
+    },
+    {
+      "name": "HOUSING LOAN BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd7"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 3M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa9"
+    },
+    {
+      "name": "HOUSING LOAN W/ 2YR LOW INTEREST",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fdc"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN HOUS CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fae"
+    },
+    {
+      "name": "HOUSING LOAN/MONTHLY DEPOSITS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe1"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST PERIOD.6MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb3"
+    },
+    {
+      "name": "IKON.HOUS.LN BOC BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe6"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST.PRD.007D BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb8"
+    },
+    {
+      "name": "IKON/STEGASTIKO  BOC  BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664feb"
+    },
+    {
+      "name": "HOUS.LNS FXD.1ST PRD 1M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fbd"
+    },
+    {
+      "name": "IKON/STEGASTIKO 003M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff0"
+    },
+    {
+      "name": "HOUSING 2 YRS 0%MARGIN BOC BAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc2"
+    },
+    {
+      "name": "IKON/STEGASTIKO 007D BAS CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff5"
+    },
+    {
+      "name": "HOUSING 2YRS 0%ADJ.012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc7"
+    },
+    {
+      "name": "IKON/STEGASTIKO 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ffa"
+    },
+    {
+      "name": "HOUSING LN 1 & 2 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fcc"
+    },
+    {
+      "name": "IKONOMIA HOUS.LN BASE 006M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fff"
+    },
+    {
+      "name": "HOUSING LN FXD FOR A PERIOD CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd1"
+    },
+    {
+      "name": "JEREMIE 2 FLPG 006M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665004"
+    },
+    {
+      "name": "HOUSING LOAN 3YR FIXED INT.",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd6"
+    },
+    {
+      "name": "JEREMIE 3 PRODUCT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665009"
+    },
+    {
+      "name": "HOUSING LOAN PLAN BOC EUR 6M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fdb"
+    },
+    {
+      "name": "LNS WITHOUT COLLAT 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066500e"
+    },
+    {
+      "name": "HOUSING LOAN WITH INSURANCE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe0"
+    },
+    {
+      "name": "LNS WITHOUT COLLATERAL",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665013"
+    },
+    {
+      "name": "IKON.HOUS.LN 006M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe5"
+    },
+    {
+      "name": "LOANS AGAINST F/D",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665018"
+    },
+    {
+      "name": "IKON/STEGASTIKO",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fea"
+    },
+    {
+      "name": "MISCL. STAFF LOANS BOC RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066501d"
+    },
+    {
+      "name": "IKON/STEGASTIKO 003M BAS CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fef"
+    },
+    {
+      "name": "IKON/STEGASTIKO 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff4"
+    },
+    {
+      "name": "MUNICIPALITY LNS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665022"
+    },
+    {
+      "name": "IKON/STEGASTIKO 012M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff9"
+    },
+    {
+      "name": "NEW BUSINESS LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665027"
+    },
+    {
+      "name": "IKONOMIA HOUS.LN BASE 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ffe"
+    },
+    {
+      "name": "NEW BUSINESS LOAN 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066502c"
+    },
+    {
+      "name": "INSUR&BALLON LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665003"
+    },
+    {
+      "name": "NEW IKO-NOMIA&KERMIA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665031"
+    },
+    {
+      "name": "JEREMIE 3 67,5% EUR POS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665008"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 006M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665036"
+    },
+    {
+      "name": "LNS WITHOUT COLLAT 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066500d"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 012M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066503b"
+    },
+    {
+      "name": "LNS WITHOUT COLLAT BOC  BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665012"
+    },
+    {
+      "name": "LOANS AG/ST SURV.VAL",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665017"
+    },
+    {
+      "name": "NEW ORZ.&ST.RELAX LNS 1MBASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665040"
+    },
+    {
+      "name": "MISCL. STAFF LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066501c"
+    },
+    {
+      "name": "NEW RENNOVATION BUSIN.BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665045"
+    },
+    {
+      "name": "MUNICIPALITY LNS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665021"
+    },
+    {
+      "name": "NEW/REN.BUSINESS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066504a"
+    },
+    {
+      "name": "MUNICIPALITY LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665026"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS  EUR BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066504f"
+    },
+    {
+      "name": "NEW BUSINESS LOAN 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066502b"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 012M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665054"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 7D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665059"
+    },
+    {
+      "name": "NEW HOUSING LOANS SEPt 2013 CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665030"
+    },
+    {
+      "name": "OFFSET BUS.LNS NONCCA EUR 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066505e"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 003M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665035"
+    },
+    {
+      "name": "OFFSET HOUSING LOANS NON CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665063"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 012M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066503a"
+    },
+    {
+      "name": "OFFSET MORTGAGE LNS CCA BES",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665068"
+    },
+    {
+      "name": "ORIZ.STUDT LOAN BOC BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066506d"
+    },
+    {
+      "name": "NEW ORZ.&ST.RELAX LNS 12MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066503f"
+    },
+    {
+      "name": "ORIZONTAS STUDT LOAN CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665072"
+    },
+    {
+      "name": "NEW PROFESSIONAL LOANS BES",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665044"
+    },
+    {
+      "name": "PREMIUM LOAN - EUROLIFE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665077"
+    },
+    {
+      "name": "PROPERTY INVEST.LNS-UK JPY 03M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066507c"
+    },
+    {
+      "name": "NEW/REN.BUSINESS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665049"
+    },
+    {
+      "name": "RETAIL FOREIGN LOANS 12MBASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665081"
+    },
+    {
+      "name": "NEW/RENOVATION BUSIN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066504e"
+    },
+    {
+      "name": "REVOLVING LNS RET.CCA 3M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665086"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 007D BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665053"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL 3M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066508b"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665090"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 6M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665058"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 003M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665095"
+    },
+    {
+      "name": "NON-CONSTANT REP.PROFESSIONAL LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066505d"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 012M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066509a"
+    },
+    {
+      "name": "OFFSET HOUSING LOANS CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665062"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 007D",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066509f"
+    },
+    {
+      "name": "OFFSET MORTGAGE LNS CCA 6M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665067"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a4"
+    },
+    {
+      "name": "ORIZ.STUDENT LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066506c"
+    },
+    {
+      "name": "S.T.L.CORPORATE 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a9"
+    },
+    {
+      "name": "ORIZONTAS STUDT LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665071"
+    },
+    {
+      "name": "SECURED LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ae"
+    },
+    {
+      "name": "POLICY LOAN ACCOUNT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665076"
+    },
+    {
+      "name": "SECURED LOANS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b3"
+    },
+    {
+      "name": "PROFESIONAL / BUSINESS LOANS(USD)",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066507b"
+    },
+    {
+      "name": "SM/MED BUSINESS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b8"
+    },
+    {
+      "name": "RELAX HOUSING LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665080"
+    },
+    {
+      "name": "SRP SERVICED LNS 003M BASE 0%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650bd"
+    },
+    {
+      "name": "RETAIL FOREIGN LOANS 7D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665085"
+    },
+    {
+      "name": "SRP SERVICED LNS 012M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c2"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066508a"
+    },
+    {
+      "name": "SRP SERVICED LNS HOUS BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c7"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL CCA BET",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066508f"
+    },
+    {
+      "name": "STOCK FINANCE 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650cc"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 003M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665094"
+    },
+    {
+      "name": "STUDENT LOAN W/ INSURANCE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d1"
+    },
+    {
+      "name": "STUDENT/INSR 1 YR FIX",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d6"
+    },
+    {
+      "name": "SYMV. HOUSING  FXD 1,4%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650db"
+    },
+    {
+      "name": "008Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e0"
+    },
+    {
+      "name": "AMEX GOLD BUSINESS CASHBACK",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e39"
+    },
+    {
+      "name": "180Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e5"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 007D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665099"
+    },
+    {
+      "name": "APOLLON A/C",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e3e"
+    },
+    {
+      "name": "8 Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650ea"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066509e"
+    },
+    {
+      "name": "Debit FCA Sight GBP Account",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e43"
+    },
+    {
+      "name": "E-notice 180Days ",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650ef"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 3M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a3"
+    },
+    {
+      "name": "MasterCard Credit",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e48"
+    },
+    {
+      "name": "Savings",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816827f67a1d906650f4"
+    },
+    {
+      "name": "S.T.L.CORPORATE 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a8"
+    },
+    {
+      "name": "VISA CHARGE",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e4d"
+    },
+    {
+      "name": "SCHOLARSHIP LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ad"
+    },
+    {
+      "name": "VISA STICKER DARK GRAY PREPAID",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e52"
+    },
+    {
+      "name": "SECURED LOANS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b2"
+    },
+    {
+      "name": "AMEX GREEN BUSINESS",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e3b"
+    },
+    {
+      "name": "VISA/PREPAID YELLOW",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e57"
+    },
+    {
+      "name": "BUSINESS CHARGE ACCOUNT",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e40"
+    },
+    {
+      "name": "SHORT TERM LOANS-BOCA WITHOUT LIMIT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b7"
+    },
+    {
+      "name": "Current A/c Overdraft",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e5c"
+    },
+    {
+      "name": "Debit FCA Sight SEK Account",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e45"
+    },
+    {
+      "name": "SRP SERVICED LNS 003M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650bc"
+    },
+    {
+      "name": "Guarantee Deposit - FCA",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e61"
+    },
+    {
+      "name": "SRP SERVICED LNS 007D BASE 0%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c1"
+    },
+    {
+      "name": "PREPAID ACCOUNT",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e4a"
+    },
+    {
+      "name": "SRP SERVICED LNS ECB BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c6"
+    },
+    {
+      "name": "VISA ELECTRON SPECIAL",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e4f"
+    },
+    {
+      "name": "Sight Account -FCA",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e66"
+    },
+    {
+      "name": "STOCK FINANCE 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650cb"
+    },
+    {
+      "name": "VISA/PREPAID DARK BLUE",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e54"
+    },
+    {
+      "name": "1 Month -CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e6b"
+    },
+    {
+      "name": "STUDENT LOAN - ORIZONTAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d0"
+    },
+    {
+      "name": "002Days Notice",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e59"
+    },
+    {
+      "name": "24 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e70"
+    },
+    {
+      "name": "STUDENT RELAX",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d5"
+    },
+    {
+      "name": "FCA Sight",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e5e"
+    },
+    {
+      "name": "60 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e75"
+    },
+    {
+      "name": "SYMV. FINANCE FXD 1,4%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650da"
+    },
+    {
+      "name": "Local Sight ",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e63"
+    },
+    {
+      "name": "CD 12 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e7a"
+    },
+    {
+      "name": "VEHICLE PURCHASING LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650df"
+    },
+    {
+      "name": "Sight Account-Student",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e68"
+    },
+    {
+      "name": "DEPOSIT SCHEME 06 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e7f"
+    },
+    {
+      "name": "12 Months (Newlyweds)-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e6d"
+    },
+    {
+      "name": "090Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e4"
+    },
+    {
+      "name": "Escalator 36 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e84"
+    },
+    {
+      "name": "3 Months (Newly-weds)-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e72"
+    },
+    {
+      "name": "60 Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e9"
+    },
+    {
+      "name": "FLEXI-FIX 06-12 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e89"
+    },
+    {
+      "name": "9 Months (Newlyweds)-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e77"
+    },
+    {
+      "name": "E-notice 090Days ",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650ee"
+    },
+    {
+      "name": "FT DEPOSIT 183D - FCA",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e8e"
+    },
+    {
+      "name": "CD 6 Months-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e7c"
+    },
+    {
+      "name": "Orizontas Plan",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650f3"
+    },
+    {
+      "name": "FT DEPOSIT 365D ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e93"
+    },
+    {
+      "name": "EXANTAS 2010",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e81"
+    },
+    {
+      "name": "FT DEPOSIT 90D - FCA",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e98"
+    },
+    {
+      "name": "FIXED DEPOSIT 1M-12M(GREECE-BOC)",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e86"
+    },
+    {
+      "name": "AMEX GOLD CASHBACK",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e3a"
+    },
+    {
+      "name": "IBU-FIX.DEPOSIT 1M-12M9GREECE0",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e9d"
+    },
+    {
+      "name": "FLEXI-FIX 6 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e8b"
+    },
+    {
+      "name": "BOC CREDIT A/C",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e3f"
+    },
+    {
+      "name": "KLIMAKOTO 6 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea2"
+    },
+    {
+      "name": "FT DEPOSIT 1M - FCA",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e90"
+    },
+    {
+      "name": "OVERNIGHT CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea7"
+    },
+    {
+      "name": "FT DEPOSIT 3M ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e95"
+    },
+    {
+      "name": "Debit FCA Sight GRD A/c",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e44"
+    },
+    {
+      "name": "GALAZIO",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e9a"
+    },
+    {
+      "name": "Notice account",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e49"
+    },
+    {
+      "name": "PREMIER/PREFERENTIAL CD 18 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eac"
+    },
+    {
+      "name": "VISA CREDIT",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e4e"
+    },
+    {
+      "name": "JEREMIE",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e9f"
+    },
+    {
+      "name": "PROTOTOKOS 6 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb1"
+    },
+    {
+      "name": "VISA STICKER DARK GREY COMM CREDIT",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e53"
+    },
+    {
+      "name": "KOKKINO",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea4"
+    },
+    {
+      "name": "Rentier 6 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb6"
+    },
+    {
+      "name": "OVERNIGHT GBP",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea9"
+    },
+    {
+      "name": "VISA/PREPAID/PINK",
+      "category": "CARD ACCOUNT",
+      "id": "5900816727f67a1d90664e58"
+    },
+    {
+      "name": "SPECIAL KLIMAKOTO 12 MONTHS - PENDING",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ebb"
+    },
+    {
+      "name": "PROTOTOKOS 24 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eae"
+    },
+    {
+      "name": "Current A/c Overdraft(18-25)",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e5d"
+    },
+    {
+      "name": "Step-Up 1 Month CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec0"
+    },
+    {
+      "name": "RENTIER 12-24 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb3"
+    },
+    {
+      "name": "Instant Access",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e62"
+    },
+    {
+      "name": "e-Fixed Deposit 1 Month",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec5"
+    },
+    {
+      "name": "SIA - INTEREST ON FREQUENCY",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb8"
+    },
+    {
+      "name": "Sight Account-Hakki",
+      "category": "CURRENT ACCOUNT",
+      "id": "5900816727f67a1d90664e67"
+    },
+    {
+      "name": "e-Fixed Deposit 9 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eca"
+    },
+    {
+      "name": "Savings (Fixed Deposit)",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ebd"
+    },
+    {
+      "name": "12 MONTHS-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e6c"
+    },
+    {
+      "name": "BCFC  LNS OLD 82 003MBASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ecf"
+    },
+    {
+      "name": "Step-Up 6 Months CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec2"
+    },
+    {
+      "name": "3 MONTHS-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e71"
+    },
+    {
+      "name": "e-Fixed Deposit 3 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec7"
+    },
+    {
+      "name": "BCFC FIXED RATE LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed4"
+    },
+    {
+      "name": "12 MONTHS FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ecc"
+    },
+    {
+      "name": "9 MONTHS-CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e76"
+    },
+    {
+      "name": "BCFC LNS OLD 82 7D BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed9"
+    },
+    {
+      "name": "BCFC  LNS OLD 82 007DBASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed1"
+    },
+    {
+      "name": "CD 2 Months -CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e7b"
+    },
+    {
+      "name": "BCFC NEW LOANS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ede"
+    },
+    {
+      "name": "BCFC LNS OLD 82 1M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed6"
+    },
+    {
+      "name": "DEPOSIT SCHEME 12 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e80"
+    },
+    {
+      "name": "BCFC OLD LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee3"
+    },
+    {
+      "name": "BCFC NEW LOANS 003M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664edb"
+    },
+    {
+      "name": "FIXED DEPOSIT 18MONTHS(RETAIL)",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e85"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD 82 6MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee8"
+    },
+    {
+      "name": "BCFC NEW LOANS BOC BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee0"
+    },
+    {
+      "name": "FLEXI-FIX 12 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e8a"
+    },
+    {
+      "name": "BCFC ZERO RATE LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eed"
+    },
+    {
+      "name": "BCFC SCHEME LNS CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee5"
+    },
+    {
+      "name": "FT DEPOSIT 1M",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e8f"
+    },
+    {
+      "name": "BILLS GUAR/ED DBTS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef2"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD 82 BEE BAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eea"
+    },
+    {
+      "name": "BILLS GUAR/ED DBTS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eef"
+    },
+    {
+      "name": "FT DEPOSIT 365D - FCA ",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e94"
+    },
+    {
+      "name": "BILLS GUARANTEED DEBTORS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef4"
+    },
+    {
+      "name": "FT DEPOSIT 91D",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e99"
+    },
+    {
+      "name": "BUSINESS LNS 10YRFX THEN 12M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef9"
+    },
+    {
+      "name": "IBU-FLOAT 60 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664e9e"
+    },
+    {
+      "name": "BUSINESS LNS 2 YR FXD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664efe"
+    },
+    {
+      "name": "KLIMKOTO 6 MONTHS",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea3"
+    },
+    {
+      "name": "BUSINESS LNS 3YR FXD THEN 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f03"
+    },
+    {
+      "name": "OVERNIGHT FIXED DEPOSIT",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ea8"
+    },
+    {
+      "name": "BUSINESS LNS 5YR FXD THEN 3M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f08"
+    },
+    {
+      "name": "PROTOTOKOS 12 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ead"
+    },
+    {
+      "name": "BUSINESS LNS 7YR FXD,THEN 1M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f0d"
+    },
+    {
+      "name": "RENTIER 12 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb2"
+    },
+    {
+      "name": "BUSINESS LNS1-3 YR FXD 001M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f12"
+    },
+    {
+      "name": "SAVE A LA CARD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664eb7"
+    },
+    {
+      "name": "BUSINESS LNS2YRS FXD RTBEE BAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f17"
+    },
+    {
+      "name": "BUSINESS CHF CONVERT.IN EUR/GBP LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef7"
+    },
+    {
+      "name": "SPECIAL KLIMAKOTO 6 MONTHS-PENDING",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ebc"
+    },
+    {
+      "name": "BUSINESS LNS 10YRFXD THEN 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664efc"
+    },
+    {
+      "name": "BUSINESS LOAN-3 YR FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f1c"
+    },
+    {
+      "name": "BUSINESS LNS 3YR FXD THEN 1M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f01"
+    },
+    {
+      "name": "CHF LOANS BCFC",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f21"
+    },
+    {
+      "name": "Step-Up 3 Months CD",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec1"
+    },
+    {
+      "name": "CHF LOANS BCFC 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f26"
+    },
+    {
+      "name": "BUSINESS LNS 5 YR FXD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f06"
+    },
+    {
+      "name": "e-Fixed Deposit 12 Months",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ec6"
+    },
+    {
+      "name": "EUR STUDENT RELAX 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f2b"
+    },
+    {
+      "name": "BUSINESS LNS 5YR FXD THEN12M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f0b"
+    },
+    {
+      "name": "e-Fixed Deposit FCA",
+      "category": "FIXED DEPOSIT",
+      "id": "5900816727f67a1d90664ecb"
+    },
+    {
+      "name": "F.I. LNS 003M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f30"
+    },
+    {
+      "name": "BUSINESS LNS 7YR FXD,THEN 7D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f10"
+    },
+    {
+      "name": "BCFC  LNS OLD 82 006MBASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed0"
+    },
+    {
+      "name": "F.I. LNS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f35"
+    },
+    {
+      "name": "BUSINESS LNS1-3 YR FXD 007D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f15"
+    },
+    {
+      "name": "BCFC LNS OLD 82 12M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ed5"
+    },
+    {
+      "name": "F.I. LNS 012M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f3a"
+    },
+    {
+      "name": "BUSINESS LOAN 5YEAR FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f1a"
+    },
+    {
+      "name": "BCFC NEW LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eda"
+    },
+    {
+      "name": "F.I.AND S.T. LNS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f3f"
+    },
+    {
+      "name": "BUSINESS LOAN-FIXED RATE PERIOD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f1f"
+    },
+    {
+      "name": "BCFC NEW LOANS BEE BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664edf"
+    },
+    {
+      "name": "F.I.FCA CONV.IN EUR LNS 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f44"
+    },
+    {
+      "name": "CHF LOANS BCFC 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f24"
+    },
+    {
+      "name": "F.I.LNS CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f49"
+    },
+    {
+      "name": "BCFC SCHEME LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee4"
+    },
+    {
+      "name": "EUR STUDENT RELAX 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f29"
+    },
+    {
+      "name": "F.I.LOANS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f4e"
+    },
+    {
+      "name": "BCFC SCHEME LNS OLD 82 7DBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ee9"
+    },
+    {
+      "name": "F.I. LNS 001M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f2e"
+    },
+    {
+      "name": "F.I.LOANS 007D BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f53"
+    },
+    {
+      "name": "BILL GUAR/ED DBTS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664eee"
+    },
+    {
+      "name": "F.I. LNS 006M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f33"
+    },
+    {
+      "name": "F.I.LOANS BOC BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f58"
+    },
+    {
+      "name": "BILLS GUAR/ED DBTS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef3"
+    },
+    {
+      "name": "F.I. LNS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f38"
+    },
+    {
+      "name": "F.I.LOANS EUR 006M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f5d"
+    },
+    {
+      "name": "BUSINESS LNS 10 YR FXD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ef8"
+    },
+    {
+      "name": "F.I.LOANS HOUSING BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f62"
+    },
+    {
+      "name": "F.I.AND S.T. LNS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f3d"
+    },
+    {
+      "name": "BUSINESS LNS 10YRFXD THEN 7D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664efd"
+    },
+    {
+      "name": "F.I.LOANS OLD 82 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f67"
+    },
+    {
+      "name": "F.I.AND S.T. LNS BOC BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f42"
+    },
+    {
+      "name": "BUSINESS LNS 3YR FXD THEN 3M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f02"
+    },
+    {
+      "name": "FBN - TENOR 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f6c"
+    },
+    {
+      "name": "F.I.L. LINE 2",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f47"
+    },
+    {
+      "name": "FBN SIGHT 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f71"
+    },
+    {
+      "name": "BUSINESS LNS 5YR FXD THEN 1M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f07"
+    },
+    {
+      "name": "F.I.LOANS - LINE 3POR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f4c"
+    },
+    {
+      "name": "FIL FCA CONV. IN EUR/GBP 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f76"
+    },
+    {
+      "name": "BUSINESS LNS 7 YR FXD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f0c"
+    },
+    {
+      "name": "F.I.LOANS 006M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f51"
+    },
+    {
+      "name": "FIXED INSTALLMENT LOANS CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f7b"
+    },
+    {
+      "name": "BUSINESS LNS 7YR FXD,THEN12M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f11"
+    },
+    {
+      "name": "F.I.LOANS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f56"
+    },
+    {
+      "name": "FOREIGN F.I.LOANS RETAIL",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f80"
+    },
+    {
+      "name": "BUSINESS LNS1-3 YR FXD 012M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f16"
+    },
+    {
+      "name": "F.I.LOANS EUR 003M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f5b"
+    },
+    {
+      "name": "HIRE PURCHASE LOAN -0% FIRST YR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f85"
+    },
+    {
+      "name": "BUSINESS LOAN-2 YR FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f1b"
+    },
+    {
+      "name": "F.I.LOANS EUR 012M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f60"
+    },
+    {
+      "name": "HOUS.FCA CONV. IN EUR/GBP 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f8a"
+    },
+    {
+      "name": "BUSINESS LOAN-FOREIGN CURRENCY",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f20"
+    },
+    {
+      "name": "F.I.LOANS OLD 82 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f65"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 003M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f8f"
+    },
+    {
+      "name": "CHF LOANS BCFC 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f25"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 007D CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f94"
+    },
+    {
+      "name": "FBN - TENOR 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f6a"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 3M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f99"
+    },
+    {
+      "name": "EUR STUDENT RELAX 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f2a"
+    },
+    {
+      "name": "FBN SIGHT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f6f"
+    },
+    {
+      "name": "HOUS.FXD 1ST PRD EUR BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f9e"
+    },
+    {
+      "name": "F.I. LNS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f2f"
+    },
+    {
+      "name": "FBN SIGHT 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f74"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 007D CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa3"
+    },
+    {
+      "name": "F.I. LNS 006M BASE CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f34"
+    },
+    {
+      "name": "FIL WITH LIFE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f79"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 3M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa8"
+    },
+    {
+      "name": "F.I. LNS 012M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f39"
+    },
+    {
+      "name": "FIXED TERM LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f7e"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 7D CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fad"
+    },
+    {
+      "name": "F.I.AND S.T. LNS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f3e"
+    },
+    {
+      "name": "GRACE PERIOD INTEREST CALCULATOR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f83"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST PERIOD.3MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb2"
+    },
+    {
+      "name": "F.I.BOC WARR.LN1&2",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f43"
+    },
+    {
+      "name": "HOUS. FCA CONV.IN EUR/GBP 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f88"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST.PRD.006M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb7"
+    },
+    {
+      "name": "F.I.LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f48"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 001M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f8d"
+    },
+    {
+      "name": "HOUS.LNS FXD.1ST PRD 12M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fbc"
+    },
+    {
+      "name": "F.I.LOANS 001M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f4d"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 006M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f92"
+    },
+    {
+      "name": "HOUSING 2 YRS 0% MARGIN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc1"
+    },
+    {
+      "name": "F.I.LOANS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f52"
+    },
+    {
+      "name": "HOUSING 2YRS 0%ADJ.007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc6"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 12M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f97"
+    },
+    {
+      "name": "HOUSING LN 1 & 2 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fcb"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f9c"
+    },
+    {
+      "name": "F.I.LOANS BES BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f57"
+    },
+    {
+      "name": "HOUSING LN FXD FOR A PERIOD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd0"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 003M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa1"
+    },
+    {
+      "name": "F.I.LOANS EUR 003M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f5c"
+    },
+    {
+      "name": "HOUSING LOAN 2YR FIXED INT.",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd5"
+    },
+    {
+      "name": "F.I.LOANS EUR BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f61"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 1M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa6"
+    },
+    {
+      "name": "HOUSING LOAN PLAN BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fda"
+    },
+    {
+      "name": "F.I.LOANS OLD 82 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f66"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 6M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fab"
+    },
+    {
+      "name": "HOUSING LOAN W/FIXED RATE PERIOD",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fdf"
+    },
+    {
+      "name": "HOUS.LN BUSINESS PREMISES BES",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb0"
+    },
+    {
+      "name": "FBN - TENOR 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f6b"
+    },
+    {
+      "name": "IKON.HOUS.LN 006M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe4"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST.PRD.001M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb5"
+    },
+    {
+      "name": "FBN SIGHT 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f70"
+    },
+    {
+      "name": "IKON/HOUS LN HOUS BOC BAS CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe9"
+    },
+    {
+      "name": "IKON/STEGASTIKO 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fee"
+    },
+    {
+      "name": "FBN TENOR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f75"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST.PRD.BEE  BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fba"
+    },
+    {
+      "name": "IKON/STEGASTIKO 006M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff3"
+    },
+    {
+      "name": "FIXED INSTALLMENT LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f7a"
+    },
+    {
+      "name": "HOUS.LNS FXD.1ST PRD 6M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fbf"
+    },
+    {
+      "name": "IKON/STEGASTIKO 012M BAS CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff8"
+    },
+    {
+      "name": "FOREIGN CURRENCY LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f7f"
+    },
+    {
+      "name": "HOUSING 2YRS 0%ADJ.003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc4"
+    },
+    {
+      "name": "IKON/STEGASTIKO HOUS BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ffd"
+    },
+    {
+      "name": "HIRE PURCHASE LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f84"
+    },
+    {
+      "name": "HOUSING FCA CONVERTED IN EUR LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc9"
+    },
+    {
+      "name": "IKONOMIA HOUSING LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665002"
+    },
+    {
+      "name": "HOUS.BRIDG.LNS LN1AND9% LIFE INS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f89"
+    },
+    {
+      "name": "HOUSING LN 1 & 2 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fce"
+    },
+    {
+      "name": "JEREMIE 3",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665007"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 001M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f8e"
+    },
+    {
+      "name": "HOUSING LOAN 10YR FIXED INT.",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd3"
+    },
+    {
+      "name": "JEREMIE PRODUCT FORM 75%6MEURI",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066500c"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 007D CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f93"
+    },
+    {
+      "name": "HOUSING LOAN BUSINESS PREMISES",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd8"
+    },
+    {
+      "name": "LNS WITHOUT COLLAT 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665011"
+    },
+    {
+      "name": "HOUS.FXD 1ST PERIOD 1M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f98"
+    },
+    {
+      "name": "HOUSING LOAN W/ FIXED RATE PER.",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fdd"
+    },
+    {
+      "name": "LOAN TO FARMERS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665016"
+    },
+    {
+      "name": "HOUS.FXD 1ST PRD BOC BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664f9d"
+    },
+    {
+      "name": "MEDIUM TERM FIL-CORP",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066501b"
+    },
+    {
+      "name": "HOUSING RENOVATION LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe2"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 006M CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa2"
+    },
+    {
+      "name": "MUNICIPALITY LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665020"
+    },
+    {
+      "name": "IKON.HOUS.LN EUR BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe7"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 1M CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fa7"
+    },
+    {
+      "name": "MUNICIPALITY LNS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665025"
+    },
+    {
+      "name": "IKON/STEGASTIKO 001M BAS CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fec"
+    },
+    {
+      "name": "HOUS.FXD.1ST PER.THEN 7D BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fac"
+    },
+    {
+      "name": "NEW BUSINESS LOAN 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066502a"
+    },
+    {
+      "name": "IKON/STEGASTIKO 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff1"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST PERIOD.1MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb1"
+    },
+    {
+      "name": "NEW HOUSING LOANS SEP13",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066502f"
+    },
+    {
+      "name": "IKON/STEGASTIKO 007D BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff6"
+    },
+    {
+      "name": "HOUS.LN FXD 1ST.PRD.003M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fb6"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 003M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665034"
+    },
+    {
+      "name": "IKON/STEGASTIKO BOC BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ffb"
+    },
+    {
+      "name": "HOUS.LN FXD 1STPERIOD.12MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fbb"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 007D BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665039"
+    },
+    {
+      "name": "IKONOMIA HOUSING LN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665000"
+    },
+    {
+      "name": "HOUS.LNS FXD.1ST PRD 7D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc0"
+    },
+    {
+      "name": "NEW ORIZ.WITHOUT COL",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066503e"
+    },
+    {
+      "name": "NEW PROFESSIONAL LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665043"
+    },
+    {
+      "name": "JEREMIE 2 FLPG 6M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665005"
+    },
+    {
+      "name": "HOUSING 2YRS 0%ADJ.006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fc5"
+    },
+    {
+      "name": "NEW/REN.BUSINESS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665048"
+    },
+    {
+      "name": "HOUSING LN 1 & 2 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fca"
+    },
+    {
+      "name": "JEREMIE PRD 75% 6M EUR POSITIVE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066500a"
+    },
+    {
+      "name": "NEW/REN.BUSINESS EUR  BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066504d"
+    },
+    {
+      "name": "HOUSING LN 1&2",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fcf"
+    },
+    {
+      "name": "LNS WITHOUT COLLAT 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066500f"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 006M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665052"
+    },
+    {
+      "name": "HOUSING LOAN 15 YEARS FIXED INTER.",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd4"
+    },
+    {
+      "name": "LOAN AGAINST SURR. VALUE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665014"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 3M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665057"
+    },
+    {
+      "name": "LOANS WITHOUT COLLAT BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665019"
+    },
+    {
+      "name": "HOUSING LOAN HOUS BAS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fd9"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS HOUS.BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066505c"
+    },
+    {
+      "name": "MORTGAGE LOAN - SP. FUND",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066501e"
+    },
+    {
+      "name": "OFFSET BUSINESS LOANS NON CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665061"
+    },
+    {
+      "name": "HOUSING LOAN W/ LIFE INSURANCE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fde"
+    },
+    {
+      "name": "MUNICIPALITY LNS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665023"
+    },
+    {
+      "name": "OFFSET MORTG. LNS CCA EUR 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665066"
+    },
+    {
+      "name": "HOUSING/INSUR.LNS WITH FXD PERIODS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe3"
+    },
+    {
+      "name": "NEW BUSINESS LOAN 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665028"
+    },
+    {
+      "name": "ORIZ. START-UP LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066506b"
+    },
+    {
+      "name": "IKON.HOUS.LN HOUS.BOC BAS CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fe8"
+    },
+    {
+      "name": "ORIZONTAS STUDENT LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665070"
+    },
+    {
+      "name": "NEW BUSINESS LOAN BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066502d"
+    },
+    {
+      "name": "IKON/STEGASTIKO 001M BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664fed"
+    },
+    {
+      "name": "POLICY LOAN - EUROLIFE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665075"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 001M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665032"
+    },
+    {
+      "name": "IKON/STEGASTIKO 006M BAS CCA P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff2"
+    },
+    {
+      "name": "PRODUCT SYNEPOS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066507a"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 006M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665037"
+    },
+    {
+      "name": "IKON/STEGASTIKO 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ff7"
+    },
+    {
+      "name": "Property Investment Loans-UK",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066507f"
+    },
+    {
+      "name": "NEW ORIZ&ST.RELAX LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066503c"
+    },
+    {
+      "name": "IKON/STEGASTIKO CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90664ffc"
+    },
+    {
+      "name": "RETAIL FOREIGN LOANS 6M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665084"
+    },
+    {
+      "name": "NEW ORZ.&ST.RELAX LNS 3MBASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665041"
+    },
+    {
+      "name": "IKONOMIA HOUSING LN CCA LAW",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665001"
+    },
+    {
+      "name": "REVOLVING LNS RET.CCA 6M EUR P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665089"
+    },
+    {
+      "name": "NEW STU/RELAX-COLLAT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665046"
+    },
+    {
+      "name": "JEREMIE 2 FLPG PRODUCT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665006"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL 6M EUR P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066508e"
+    },
+    {
+      "name": "NEW/REN.BUSINESS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066504b"
+    },
+    {
+      "name": "JEREMIE PRODUCT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066500b"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 001M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665093"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 001M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665050"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 007D",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665098"
+    },
+    {
+      "name": "LNS WITHOUT COLLAT 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665010"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 12M BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665055"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 003M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066509d"
+    },
+    {
+      "name": "LOAN PLAN WITH FIXED RATE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665015"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066505a"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 1M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a2"
+    },
+    {
+      "name": "MARRIAGE/MATERNITY/GEN.YOUTH LNS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066501a"
+    },
+    {
+      "name": "OFFSET BUSI.LNS NON CCA 6M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066505f"
+    },
+    {
+      "name": "S.T.L.CORPORATE 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a7"
+    },
+    {
+      "name": "MORTGAGE LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066501f"
+    },
+    {
+      "name": "OFFSET MORT.LNS NON CCA 6M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665064"
+    },
+    {
+      "name": "S.T.LNS-BOCA WITHOUT LIMIT BOC",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ac"
+    },
+    {
+      "name": "MUNICIPALITY LNS 007D BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665024"
+    },
+    {
+      "name": "OFFSET MORTGLNS NOCCA EUR 6M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665069"
+    },
+    {
+      "name": "SECURED LOANS 006M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b1"
+    },
+    {
+      "name": "NEW BUSINESS LOAN 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665029"
+    },
+    {
+      "name": "ORIZ.STUDT LOAN EUR BASE CCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066506e"
+    },
+    {
+      "name": "SHORT TERM LOANS-BOCA",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b6"
+    },
+    {
+      "name": "NEW BUSINESS LOAN HOUSING BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066502e"
+    },
+    {
+      "name": "PERSONAL LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665073"
+    },
+    {
+      "name": "SRP SERVICED LNS 001M BASE 0%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650bb"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 001M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665033"
+    },
+    {
+      "name": "PREMIUM LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665078"
+    },
+    {
+      "name": "SRP SERVICED LNS 007D BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c0"
+    },
+    {
+      "name": "NEW IKONOMIA&KERMIA 007D BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665038"
+    },
+    {
+      "name": "SRP SERVICED LNS BOC  BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c5"
+    },
+    {
+      "name": "PROPERTY INVESTLNS-UK JPY 3M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066507d"
+    },
+    {
+      "name": "NEW ORIZ.&ST.RELAX LNS 6MBAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066503d"
+    },
+    {
+      "name": "STOCK FINANCE 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ca"
+    },
+    {
+      "name": "RETAIL FOREIGN LOANS 1M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665082"
+    },
+    {
+      "name": "NEW ORZ.&ST.RELAX LNS 7D BAS P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665042"
+    },
+    {
+      "name": "STUDENT LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650cf"
+    },
+    {
+      "name": "REVOLVING LNS RET.CCA 3M EUR P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665087"
+    },
+    {
+      "name": "NEW/REN.BUSINESS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665047"
+    },
+    {
+      "name": "STUDENT LOANS IBS SCHEME",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d4"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL 3M EUR P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066508c"
+    },
+    {
+      "name": "NEW/REN.BUSINESS 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066504c"
+    },
+    {
+      "name": "SYMV. EUROL. MARRIAGE FXD 1,4%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d9"
+    },
+    {
+      "name": "RUSSIAN & UKRAINIAN LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665091"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 003M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665051"
+    },
+    {
+      "name": "SYMV.CAR FXD 1,4%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650de"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 006M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665096"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS 1M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665056"
+    },
+    {
+      "name": "07 Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e3"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 012M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066509b"
+    },
+    {
+      "name": "NON-CONSTANT REP.LNS BOC BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066505b"
+    },
+    {
+      "name": "35 Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e8"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 012M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a0"
+    },
+    {
+      "name": "E-notice 035Days ",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650ed"
+    },
+    {
+      "name": "OFFSET BUSIN.LNS NON CCA BES",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665060"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 7D P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a5"
+    },
+    {
+      "name": "Money Boxes",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650f2"
+    },
+    {
+      "name": "OFFSET MORT.LNS NON CCA BES",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665065"
+    },
+    {
+      "name": "S.T.L.CORPORATE 012M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650aa"
+    },
+    {
+      "name": "OLD HIRE PURCHASE (RULE 78)",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066506a"
+    },
+    {
+      "name": "SECURED LOANS 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650af"
+    },
+    {
+      "name": "ORIZON START-UP LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066506f"
+    },
+    {
+      "name": "SECURED LOANS BEE  BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b4"
+    },
+    {
+      "name": "PERSONAL LOAN MATERN/MAR./GEN.YOUTH",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665074"
+    },
+    {
+      "name": "SM/MED. BUSINESS LOAN",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b9"
+    },
+    {
+      "name": "PRIORITY PROJECT",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665079"
+    },
+    {
+      "name": "SRP SERVICED LNS 006M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650be"
+    },
+    {
+      "name": "PROPERTY LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066507e"
+    },
+    {
+      "name": "SRP SERVICED LNS 012M BASE 0%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c3"
+    },
+    {
+      "name": "RETAIL FOREIGN LOANS 3M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665083"
+    },
+    {
+      "name": "SRP SERVICED LOANS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c8"
+    },
+    {
+      "name": "REVOLVING LNS RET.CCA 6M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665088"
+    },
+    {
+      "name": "STOCK FINANCE FOR DEALERS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650cd"
+    },
+    {
+      "name": "REVOLVING LNS RETAIL 6M EUR",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066508d"
+    },
+    {
+      "name": "STUDENT LOAN-RELAX",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d2"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 001M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665092"
+    },
+    {
+      "name": "SUSPENSE PRODUCTS",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d7"
+    },
+    {
+      "name": "RUSSIAN/UKRAINIAN LOANS 006M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d90665097"
+    },
+    {
+      "name": "SYMV. MARRIAGE FXD 1,4%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650dc"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 001M",
+      "category": "LOAN",
+      "id": "5900816727f67a1d9066509c"
+    },
+    {
+      "name": "030Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e1"
+    },
+    {
+      "name": "S.T.L-BOCA WITHOUT LIMIT 12M P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a1"
+    },
+    {
+      "name": "30 Days Notice (ZEUS)",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e6"
+    },
+    {
+      "name": "S.T.L.CORPORATE 001M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650a6"
+    },
+    {
+      "name": "Cybank Club 24",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650eb"
+    },
+    {
+      "name": "S.T.LNS-BOCA WITHOUT LIMIT BEE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ab"
+    },
+    {
+      "name": "Generation Kids",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650f0"
+    },
+    {
+      "name": "SECURED LOANS 003M BASE P",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b0"
+    },
+    {
+      "name": "SECURED LOANS HOUS.BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650b5"
+    },
+    {
+      "name": "SRP SERVICED LNS 001M BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ba"
+    },
+    {
+      "name": "SRP SERVICED LNS 006M BASE 0%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650bf"
+    },
+    {
+      "name": "SRP SERVICED LNS BEE BASE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c4"
+    },
+    {
+      "name": "STOCK FINANCE",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650c9"
+    },
+    {
+      "name": "STUDENT L.1 YR FIXED",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650ce"
+    },
+    {
+      "name": "STUDENT LOAN-REVOLVING",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d3"
+    },
+    {
+      "name": "SYMV. CLEANERS FXD 1,4%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650d8"
+    },
+    {
+      "name": "SYMV. STUDENT FXD 1,6%",
+      "category": "LOAN",
+      "id": "5900816727f67a1d906650dd"
+    },
+    {
+      "name": "035Days Notice",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e2"
+    },
+    {
+      "name": "35 Days IBU Notice - USD",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650e7"
+    },
+    {
+      "name": "E-notice 008Days ",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650ec"
+    },
+    {
+      "name": "Housing Plan",
+      "category": "SAVINGS ACCOUNT",
+      "id": "5900816727f67a1d906650f1"
+    }
+  ]
+}
+
+
+
+Schema:
+
+{
+  "product": [
+    {
+      "bank_id": "string",
+      "category": "string",
+      "family": "string",
+      "id": "string",
+      "meta": [
+        "string"
+      ],
+      "more_info_url": "string",
+      "name": "string",
+      "super_family": "string"
+    }
+  ]
+}

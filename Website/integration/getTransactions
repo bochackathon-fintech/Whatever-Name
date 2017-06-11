@@ -1,0 +1,48 @@
+URL: http://api.bocapi.net/v1/api/banks/bda8eb884efcef7082792d45/accounts/5dadbb4247773c3d9d819f7e/5710bba5d42604e4072d1e92/transactions
+
+Auth-Provider-Name:014711001175
+Auth-Id:123456789
+obp_sort_by:account_id
+obp_sort_direction:ASC
+obp_limit:10
+obp_offset:10
+obp_from_date:01/01/2017
+obp_to_date:30/12/2017
+Ocp-Apim-Subscription-Key:0509706aa54c43768acbb33687d5bef6
+
+{
+  "transactions": [
+    {
+      "details": {
+        "posted_by_user_id": "fc2a2e872c2cae48e4acc0a6",
+        "posted_by_ip_address": "::ffff:52.174.251.15",
+        "posted": "2017-06-10T13:47:26.722Z",
+        "cancelled_by_ip_address": "68.180.194.242",
+        "cancelled_by_user_id": "0710bba5d46604e4072d1e73",
+        "completed": "2017-06-10T13:47:34.59Z",
+        "value": {
+          "currency": "EUR",
+          "amount": -10
+        },
+        "status": "COMPLETED"
+      },
+      "id": "593bf86e270faa1f181203bc"
+    },
+    {
+      "details": {
+        "posted_by_user_id": "fc2a2e872c2cae48e4acc0a6",
+        "posted_by_ip_address": "::ffff:52.174.251.15",
+        "posted": "2017-06-10T13:46:15.815Z",
+        "cancelled_by_ip_address": "68.180.194.242",
+        "cancelled_by_user_id": "0710bba5d46604e4072d1e73",
+        "completed": "2017-06-10T13:46:24.586Z",
+        "value": {
+          "currency": "EUR",
+          "amount": -10
+        },
+        "status": "COMPLETED"
+      },
+      "id": "593bf827270faa1f181203b8"
+    }
+  ]
+}

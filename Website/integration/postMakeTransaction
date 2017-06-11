@@ -1,0 +1,28 @@
+URL: http://api.bocapi.net/v1/api/banks/bda8eb884efcef7082792d45/accounts/d058aa4367ebd75b4742f57b/make-transaction
+
+Headers:
+
+Track-ID: 013e300b93a44aa2847a29f6
+Content-Type: application/json
+Auth-ID: 123456789
+Auth-Provider-Name: 01860902840400
+Ocp-Apim-Subscription-Key: 0509706aa54c43768acbb33687d5bef6
+
+Request Body:
+
+{
+  "description": "string",
+  "challenge_type": "string",
+  "from": {
+    "account_id": "d058aa4367ebd75b4742f57b",
+    "bank_id": "bda8eb884efcef7082792d45"
+  },
+  "to": {
+    "account_id": "5dadbb4247773c3d9d819f7e",
+    "bank_id": "bda8eb884efcef7082792d45"
+  },
+  "value": {
+    "currency": "EUR",
+    "amount": 10.0
+  }
+}
