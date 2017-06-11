@@ -13,6 +13,9 @@ import UIKit
 class MainViewController: UIViewController {
 
     
+    static var total = 34
+    static var antamivi = 15
+    
     static var loaded = false
     
     
@@ -27,13 +30,13 @@ class MainViewController: UIViewController {
         
         if MainViewController.loaded {
             rewardsLabel.text = 11.description
-            antamiviLabel.text = 15.description
-            totalLabel.text = 34.description + "€"
+            antamiviLabel.text = MainViewController.antamivi.description
+            totalLabel.text =  MainViewController.total.description + "€"
         }
         else {
             MainViewController.loaded = true
-            incrementLabel(string: "€", label: totalLabel, to: 34)
-            incrementLabel(string: "", label: antamiviLabel, to: 15)
+            incrementLabel(string: "€", label: totalLabel, to: MainViewController.total)
+            incrementLabel(string: "", label: antamiviLabel, to: MainViewController.antamivi)
             incrementLabel(string: "", label: rewardsLabel, to: 11)
         }
 

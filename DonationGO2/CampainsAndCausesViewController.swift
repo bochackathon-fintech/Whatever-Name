@@ -10,6 +10,9 @@ import UIKit
 
 class CampainsAndCausesViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
 
+    @IBAction func close(_ sender: Any) {
+        dismiss(animated: true, completion: nil)
+    }
     @IBOutlet weak var tapBar: TapBar!
     @IBOutlet weak var tableView: UITableView! {
         didSet {
