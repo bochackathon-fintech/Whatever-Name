@@ -46,6 +46,11 @@
 		A6C2479B1EEC7F3E00A2B164 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A6C247991EEC7F3E00A2B164 /* TableViewCell.xib */; };
 		A6C2479E1EEC928200A2B164 /* InformationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C2479D1EEC928200A2B164 /* InformationsViewController.swift */; };
 		A6C247A01EECAA2100A2B164 /* BeaonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C2479F1EECAA2100A2B164 /* BeaonViewController.swift */; };
+		A6E8EAD61EED46C700B35EF8 /* CampainsMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6E8EAD51EED46C700B35EF8 /* CampainsMapViewController.swift */; };
+		A6E8EAD91EED5E2500B35EF8 /* AchievmentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6E8EAD71EED5E2500B35EF8 /* AchievmentTableViewCell.swift */; };
+		A6E8EADA1EED5E2500B35EF8 /* AchievmentTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A6E8EAD81EED5E2500B35EF8 /* AchievmentTableViewCell.xib */; };
+		A6E8EADD1EED605C00B35EF8 /* AchievmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6E8EADC1EED605C00B35EF8 /* AchievmentViewController.swift */; };
+		A6E8EADF1EED691500B35EF8 /* AcceptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6E8EADE1EED691500B35EF8 /* AcceptViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +95,11 @@
 		A6C247991EEC7F3E00A2B164 /* TableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
 		A6C2479D1EEC928200A2B164 /* InformationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InformationsViewController.swift; sourceTree = "<group>"; };
 		A6C2479F1EECAA2100A2B164 /* BeaonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeaonViewController.swift; sourceTree = "<group>"; };
+		A6E8EAD51EED46C700B35EF8 /* CampainsMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampainsMapViewController.swift; sourceTree = "<group>"; };
+		A6E8EAD71EED5E2500B35EF8 /* AchievmentTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AchievmentTableViewCell.swift; sourceTree = "<group>"; };
+		A6E8EAD81EED5E2500B35EF8 /* AchievmentTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AchievmentTableViewCell.xib; sourceTree = "<group>"; };
+		A6E8EADC1EED605C00B35EF8 /* AchievmentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AchievmentViewController.swift; sourceTree = "<group>"; };
+		A6E8EADE1EED691500B35EF8 /* AcceptViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AcceptViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,9 +150,11 @@
 				A6A6896C1EEC1B20001E3F16 /* ActivationViewController.swift */,
 				A6A6896E1EEC55EA001E3F16 /* LoginViewController.swift */,
 				A6C2478F1EEC744700A2B164 /* NearbyViewController.swift */,
+				A6E8EAD51EED46C700B35EF8 /* CampainsMapViewController.swift */,
 				A6C247961EEC7AEB00A2B164 /* CampainsAndCausesViewController.swift */,
 				A6C2479D1EEC928200A2B164 /* InformationsViewController.swift */,
 				A6C2479F1EECAA2100A2B164 /* BeaonViewController.swift */,
+				A6E8EADE1EED691500B35EF8 /* AcceptViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -154,6 +166,7 @@
 				A6C247951EEC799E00A2B164 /* TapBar */,
 				A6A689711EEC58D4001E3F16 /* RocketView.swift */,
 				A6C2475A1EEC5BB000A2B164 /* RocketView.xib */,
+				A6E8EADB1EED5E2900B35EF8 /* AchivCwll */,
 			);
 			name = RocketView;
 			sourceTree = "<group>";
@@ -212,6 +225,16 @@
 				A6C247991EEC7F3E00A2B164 /* TableViewCell.xib */,
 			);
 			name = Cell;
+			sourceTree = "<group>";
+		};
+		A6E8EADB1EED5E2900B35EF8 /* AchivCwll */ = {
+			isa = PBXGroup;
+			children = (
+				A6E8EAD71EED5E2500B35EF8 /* AchievmentTableViewCell.swift */,
+				A6E8EAD81EED5E2500B35EF8 /* AchievmentTableViewCell.xib */,
+				A6E8EADC1EED605C00B35EF8 /* AchievmentViewController.swift */,
+			);
+			name = AchivCwll;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -279,6 +302,7 @@
 				A6A689601EEC0B32001E3F16 /* Assets.xcassets in Resources */,
 				A6C2475B1EEC5BB000A2B164 /* RocketView.xib in Resources */,
 				A6A6895B1EEC0B32001E3F16 /* Main.storyboard in Resources */,
+				A6E8EADA1EED5E2500B35EF8 /* AchievmentTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +315,7 @@
 			files = (
 				A6C2477B1EEC5E1E00A2B164 /* Error + Extensions.swift in Sources */,
 				A6C247881EEC5E1E00A2B164 /* UITableViewCell + Extension.swift in Sources */,
+				A6E8EADF1EED691500B35EF8 /* AcceptViewController.swift in Sources */,
 				A6C247831EEC5E1E00A2B164 /* UIColor + Extensions.swift in Sources */,
 				A6A689721EEC58D4001E3F16 /* RocketView.swift in Sources */,
 				A6C2477E1EEC5E1E00A2B164 /* Notification + Extensions.swift in Sources */,
@@ -307,15 +332,18 @@
 				A6C247811EEC5E1E00A2B164 /* String + Extensions.swift in Sources */,
 				A6C247761EEC5E1E00A2B164 /* CGSize + Extensions.swift in Sources */,
 				A6C247801EEC5E1E00A2B164 /* NSObject + Extensions.swift in Sources */,
+				A6E8EADD1EED605C00B35EF8 /* AchievmentViewController.swift in Sources */,
 				A6C2479A1EEC7F3E00A2B164 /* TableViewCell.swift in Sources */,
 				A6A6895E1EEC0B32001E3F16 /* DonationGO2.xcdatamodeld in Sources */,
 				A6C247841EEC5E1E00A2B164 /* UIDevice + Extension.swift in Sources */,
 				A6C247821EEC5E1E00A2B164 /* UIApplication + Extensions.swift in Sources */,
 				A6C2479E1EEC928200A2B164 /* InformationsViewController.swift in Sources */,
+				A6E8EAD91EED5E2500B35EF8 /* AchievmentTableViewCell.swift in Sources */,
 				A6A689561EEC0B32001E3F16 /* AppDelegate.swift in Sources */,
 				A6C247931EEC799900A2B164 /* TapBar.swift in Sources */,
 				A6C247971EEC7AEB00A2B164 /* CampainsAndCausesViewController.swift in Sources */,
 				A6C247861EEC5E1E00A2B164 /* UIRefreshControl + Extensions.swift in Sources */,
+				A6E8EAD61EED46C700B35EF8 /* CampainsMapViewController.swift in Sources */,
 				A6C2477D1EEC5E1E00A2B164 /* Locale + Extensions.swift in Sources */,
 				A6C2478B1EEC5E1E00A2B164 /* UIWindow + Extensions.swift in Sources */,
 				A6C247851EEC5E1E00A2B164 /* UIImage + Extensions.swift in Sources */,

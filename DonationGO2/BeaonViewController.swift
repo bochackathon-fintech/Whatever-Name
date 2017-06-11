@@ -11,6 +11,9 @@ import CoreBluetooth
 
 class BeaonViewController: UIViewController {
 
+    @IBAction func close(_ sender: Any) {
+        dismiss(animated: true, completion: nil)
+    }
     @IBOutlet weak var imageView: UIImageView!{
         didSet {
             imageView.animationDuration = 1.78
@@ -33,35 +36,6 @@ class BeaonViewController: UIViewController {
 
     }
     
-    func rssiToDistance(rssi:Decimal) -> NSNumber {
-//        if (rssi == 0) {
-//            return -1.0;
-//        }
-//        
-//        var ratio = rssi*1.0/txPower;
-//        if (ratio < 1.0) {
-//            return Math.pow(ratio,10);
-//        }
-//        else {
-//            var distance =  (0.89976)*Math.pow(ratio,7.7095) + 0.111;
-//            return distance;
-//        }
-        
-        
-        if rssi == 0 {
-            return -1
-        }
-        
-        var ration = rssi * 1.0 / -59
-        if ration < 1.0 {
-            return NSNumber(pow(ration,10))
-        }
-        else {
-            var distance =  (0.89976)
-                * pow(ration,7.7095) + 0.111;
-            return distance;
-        }
-    }
 }
 
 extension BeaonViewController: CBCentralManagerDelegate {
@@ -80,20 +54,20 @@ extension BeaonViewController: CBCentralManagerDelegate {
         peripheral.readRSSI()
         peripheral.delegate = self
         peripheral.discoverServices(nil)
-        print("connected")
+
     }
     
   
     func centralManager(_ central: CBCentralManager, didDiscover peripheral: CBPeripheral, advertisementData: [String : Any], rssi RSSI: NSNumber) {
-        peripherals.append(peripheral)
+   
         
         
-        
-        
-        if peripheral.name == "gem-2713872" {
-            print(RSSI)
-            //centralManager?.connect(peripheral, options: nil)
-           
+        let rssi = (RSSI as? Int) ?? 0
+
+        if peripheral.name == "gem-2713872" && rssi > -45{
+            central.stopScan()
+            performSegue(withIdentifier: "payBeacon", sender: nil)
+
         }
     }
     
