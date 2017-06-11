@@ -46,7 +46,7 @@
     	<div class="sidebar-wrapper">
             <div class="logo">
                 <a href="http://www.creative-tim.com" class="simple-text">
-                    Creative Tim
+                    Cyprus Red Cross Society
                 </a>
             </div>
 
@@ -64,33 +64,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="table.html">
+                    <a href="donators.html">
                         <i class="pe-7s-note2"></i>
-                        <p>Table List</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="typography.html">
-                        <i class="pe-7s-news-paper"></i>
-                        <p>Typography</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="icons.html">
-                        <i class="pe-7s-science"></i>
-                        <p>Icons</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="maps.html">
-                        <i class="pe-7s-map-marker"></i>
-                        <p>Maps</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="notifications.html">
-                        <i class="pe-7s-bell"></i>
-                        <p>Notifications</p>
+                        <p>Donators</p>
                     </a>
                 </li>
             </ul>
@@ -149,23 +125,6 @@
                                <p>Account</p>
                             </a>
                         </li>
-                        <li class="dropdown">
-                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                    <p>
-										Dropdown
-										<b class="caret"></b>
-									</p>
-                              </a>
-                              <ul class="dropdown-menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Separated link</a></li>
-                              </ul>
-                        </li>
                         <li>
                             <a href="#">
                                 <p>Log out</p>
@@ -208,7 +167,7 @@
                     <div class="col-md-8">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title">Users Behavior</h4>
+                                <h4 class="title">Donators Behavior</h4>
                                 <p class="category">24 Hours performance</p>
                             </div>
                             <div class="content">
@@ -219,15 +178,6 @@
                                         <i class="fa fa-circle text-danger"></i> Online
                                         <i class="fa fa-circle text-warning"></i> Direct
                                     </div>
-									<br>
-									<br>
-									<br>
-									<div class="typo-line">
-										<p class="category">Muted Text</p>
-										<p class="text-muted">
-										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.
-										</p>
-									</div>
                                     <hr>
                                     <div class="stats">
                                         <i class="fa fa-history"></i> Updated 3 minutes ago
@@ -256,8 +206,9 @@
                                     <thead>
                                         <th>ID</th>
                                         <th>User</th>
-                                        <th>Posted</th>
-                                        <th>Completed</th>
+										<th>User ID</th>
+                                        <th>Posted Date</th>
+                                        <th>Completed Date</th>
                                         <th>Amount</th>
                                         <th>Currency</th>
                                         <th>Status</th>
@@ -338,6 +289,7 @@
 
         	demo.initChartist();
 
+			getTransactionData();
     	});
 	</script>
 
@@ -360,6 +312,7 @@
 							tr = $('<tr/>');
 							tr.append("<td>" + (i+1) + "</td>");
 							tr.append("<td>" + getUserName(userId) + "</td>");
+							tr.append("<td>" + response.transactions[i].details.posted_by_user_id + "</td>");
 							tr.append("<td>" + response.transactions[i].details.posted + "</td>");
 							tr.append("<td>" + response.transactions[i].details.completed + "</td>");
 							tr.append("<td>" + response.transactions[i].details.value.amount + "</td>");
